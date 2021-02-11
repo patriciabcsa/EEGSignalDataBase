@@ -14,7 +14,7 @@ The experiment lasted approx. 80 min, divided into three phases:
 [2] Zhong, N.; Bradshaw, J.M.; Liu, J.; Taylor, J.G. Detecting Emotion from EEG Signals Using the Emotive Epoc Device. IEEE Intell. Syst. 2011, 26, 16–21.
 [3] Jacobé de Naurois, C.; Bourdin, C.; Stratulat, A.; Diaz, E.; Vercher, J.L. Detection and prediction of driver drowsiness using artificial neural network models. Accid. Anal. Prev. 2019, 126, 95–104. 
 
-Cite the following articles:
+#Cite the following articles:
 
 [1] Becerra-Sánchez, E. P., Reyes-Muñoz, A., & Guerrero-Ibáñez, J. A. (2019). Wearable sensors for evaluating driver drowsiness and high stress. 
 IEEE Latin America Transactions, 17(03), 418-425.
